@@ -27,6 +27,7 @@ Users can log in with admin credentials and explore all issues fetched from an A
 ## Demo Login
 
 Username: **admin**
+
 Password: **admin123**
 
 ---
